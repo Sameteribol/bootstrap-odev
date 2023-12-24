@@ -1,0 +1,1 @@
+bs5 odevi bs5 Utility Classlara bağlı kalınarak yapılmaya çalışılmıştır çoğunluk utility class olarak oluşturulmuş fakat bazı noktalarda purecss e geçilmiştir maskeleme yapmak için yoğu mstill dosyaları eklenmiştir
